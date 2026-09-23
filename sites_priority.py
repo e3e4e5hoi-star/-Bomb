@@ -8,6 +8,11 @@ PRIORITY_SITES = [
     # ═══ جدیدترین (تضمین‌شده) ═══
     ("https://tondton.com/auth", "تندتن", "gold", 1),
     ("https://app.tetherland.com/login", "تترلند", "crypto", 1),
+    ("https://gapgpt.app/login", "تترلند", "crypto", 1),
+    ("https://www.shop.ir/sign-in?backUrl=%2Fprofile", "shop;", "shop", 1),
+    ("https://tapsi.shop/auth/signin?step=checkPhoneNumber", "tapsi shop", "shop", 1),
+
+    
 
     # ═══ بدون کپچا - تست‌شده ═══
     ("https://api.snapp.ir/api/v1/sms/link", "اسنپ", "no_captcha", 2),
