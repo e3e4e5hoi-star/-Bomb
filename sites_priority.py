@@ -12,6 +12,7 @@ PRIORITY_SITES = [
     ("https://www.shop.ir/sign-in?backUrl=%2Fprofile", "shop;", "shop", 1),
     ("https://tapsi.shop/auth/signin?step=checkPhoneNumber", "tapsi shop", "shop", 1),
     ("https://reymit.ir/register/", "gfbngfnngf", "shop", 1),
+    ("https://donofa.com/auth", "gfbngfnngf", "shop", 1),
     
     
 
