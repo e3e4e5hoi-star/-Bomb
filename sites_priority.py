@@ -15,7 +15,8 @@ PRIORITY_SITES = [
     ("https://donofa.com/auth", "gfbngfnngf", "shop", 1),
     ("https://gooshishop.com/login", "gfbngfnngf", "shop", 1),
     ("https://web.gap.im/", "gfbngfnngf", "shop", 1),
-    
+    ("https://trader.saraf.app/login?utm_source=landing&utm_medium=index_nav", "gfbngfnngf", "shop", 1),
+    ("https://telewebion.net/login?redirect=https%3A%2F%2Ftelewebion.net%2Fpage%2Fhome", "gfbngfnngf", "shop", 1),   
     
 
     # ═══ بدون کپچا - تست‌شده ═══
