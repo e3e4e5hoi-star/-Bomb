@@ -14,7 +14,7 @@ PRIORITY_SITES = [
     ("https://reymit.ir/register/", "gfbngfnngf", "shop", 1),
     ("https://donofa.com/auth", "gfbngfnngf", "shop", 1),
     ("https://gooshishop.com/login", "gfbngfnngf", "shop", 1),
-    ("https://core.gap.im/v1/user/add.json?mobile=%2B", "gfbngfnngf", "shop", 1),
+    ("https://web.gap.im/", "gfbngfnngf", "shop", 1),
     
     
 
