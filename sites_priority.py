@@ -14,6 +14,7 @@ PRIORITY_SITES = [
     ("https://reymit.ir/register/", "gfbngfnngf", "shop", 1),
     ("https://donofa.com/auth", "gfbngfnngf", "shop", 1),
     ("https://gooshishop.com/login", "gfbngfnngf", "shop", 1),
+    ("https://core.gap.im/v1/user/add.json?mobile=%2B", "gfbngfnngf", "shop", 1),
     
     
 
@@ -31,7 +32,6 @@ PRIORITY_SITES = [
     ("https://mobapi.banimode.com/api/v2/auth/request", "بانی‌مد", "no_captcha", 2),
     ("https://api.mootanroo.com/api/v3/auth/send-otp", "متنرو", "no_captcha", 2),
     ("https://api.lendo.ir/api/customer/auth/send-otp", "لندو", "no_captcha", 2),
-    ("https://core.gap.im/v1/user/add.json?mobile=%2B{}", "گپ", " "no_captcha", 2),
 
     # ═══ طلا و صرافی تست‌شده ═══
     ("https://api.melligold.com/api/v1/auth/send-otp", "ملی‌گلد", "gold", 2),
