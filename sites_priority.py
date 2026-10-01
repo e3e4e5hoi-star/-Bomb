@@ -19,6 +19,7 @@ PRIORITY_SITES = [
     ("https://telewebion.net/login?redirect=https%3A%2F%2Ftelewebion.net%2Fpage%2Fhome", "gfbngfnngf", "shop", 1),   
     ("https://cafebazaar.ir/signin?redirect_url=%252Fpre-install", "gfbngfnngf", "shop", 1),
     ("https://snappfood.ir/login/phone/", "gfbngfnngf", "shop", 1),
+    ("https://www.alibaba.ir/#d-auth", "gfbngfnngf", "shop", 1),
     # ═══ بدون کپچا - تست‌شده ═══
     ("https://api.snapp.ir/api/v1/sms/link", "اسنپ", "no_captcha", 2),
     ("https://app.snapp.taxi/api/api-passenger-oauth/v2/otp", "اسنپ تاکسی", "no_captcha", 2),
