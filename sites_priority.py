@@ -21,6 +21,7 @@ PRIORITY_SITES = [
     ("https://snappfood.ir/login/phone/", "gfbngfnngf", "shop", 1),
     ("https://www.alibaba.ir/#d-auth", "gfbngfnngf", "shop", 1),
     ("https://safarmarket.com/auth/signin", "gfbngfnngf", "shop", 1),
+    ("https://gapgpt.app/login", "gfbngfnngf", "shop", 1),
     # ═══ بدون کپچا - تست‌شده ═══
     ("https://api.snapp.ir/api/v1/sms/link", "اسنپ", "no_captcha", 2),
     ("https://app.snapp.taxi/api/api-passenger-oauth/v2/otp", "اسنپ تاکسی", "no_captcha", 2),
